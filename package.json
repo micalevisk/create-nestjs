@@ -1,7 +1,7 @@
 {
   "name": "create-nestjs",
-  "description": "An alias to `npx @nestjs/cli new` to bootstrap a new NestJS application!",
-  "version": "1.0.0",
+  "description": "A shortcut for `npx @nestjs/cli new` to bootstrap a new NestJS application!",
+  "version": "1.0.1",
   "bin": {
     "create-nestjs": "./run-nestjs-new"
   },
