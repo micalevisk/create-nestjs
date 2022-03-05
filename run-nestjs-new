@@ -1,3 +1,2 @@
 #!/usr/bin/sh
-
-./node_modules/.bin/nest new
+npx @nestjs/cli new

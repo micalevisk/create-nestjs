@@ -1,7 +1,7 @@
 {
   "name": "create-nestjs",
   "description": "An alias to `npx @nestjs/cli new` to bootstrap a new NestJS application!",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "bin": {
     "create-nestjs": "./run-nestjs-new"
   },
@@ -13,8 +13,5 @@
     "name": "Micael Levi L. C.",
     "url": "https://github.io/micalevisk"
   },
-  "license": "MIT",
-  "dependencies": {
-    "@nestjs/cli": "*"
-  }
+  "license": "MIT"
 }
