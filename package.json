@@ -1,9 +1,9 @@
 {
   "name": "create-nestjs",
   "description": "An alias to `npx @nestjs/cli new` to bootstrap a new NestJS application!",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "bin": {
-    "create-nestjs": "run-nest.sh"
+    "create-nestjs": "nest new"
   },
   "publishConfig": {
     "access": "public",
@@ -15,6 +15,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@nestjs/cli": "^8.2.2"
+    "@nestjs/cli": "*"
   }
 }
