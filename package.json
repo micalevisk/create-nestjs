@@ -1,9 +1,9 @@
 {
   "name": "create-nestjs",
   "description": "An alias to `npx @nestjs/cli new` to bootstrap a new NestJS application!",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "bin": {
-    "create-nestjs": "./node_modules/.bin/nest new"
+    "create-nestjs": "nest new"
   },
   "publishConfig": {
     "access": "public",
