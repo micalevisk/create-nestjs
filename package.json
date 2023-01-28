@@ -1,9 +1,9 @@
 {
   "name": "create-nestjs",
-  "description": "A shortcut for `npx @nestjs/cli new` to bootstrap a new NestJS application!",
-  "version": "1.0.1",
+  "description": "A shortcut for `npx @nestjs/cli@latest new` to bootstrap a new NestJS application!",
+  "version": "1.2.0",
   "bin": {
-    "create-nestjs": "./run-nestjs-new"
+    "create-nestjs": "./run-nestjs-new.js"
   },
   "publishConfig": {
     "access": "public",
